@@ -70,7 +70,6 @@ Params : Subcategory_id , category_id , title , image , Content , date
 Auth_token : True
 
 14. classified(get by All)
-
 Enpoint : api/classified
 Type : GET
 
